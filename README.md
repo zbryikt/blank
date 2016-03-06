@@ -1,4 +1,4 @@
 blank
 ----------------
 
-![image](https://raw.githubusercontent.com/zbryikt/blank/master/bk.jpg)
+![image](http://raw.githubusercontent.com/zbryikt/blank/master/bk.jpg)
